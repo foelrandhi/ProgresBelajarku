@@ -19,3 +19,12 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
+**21 Juni 2021**
+Update Squash 1
+
+**22 Juni 2021**
+Update Squash 2
+
+**23 Juni 2021**
+Update Squash 3
+
